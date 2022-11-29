@@ -10,7 +10,7 @@ namespace CSharpBasics
             if(i > 20)
             {
                 Console.WriteLine($" I is greater 20 {i} ");
-                Console.WriteLine("I is greater than 20 " + i);
+                Console.WriteLine("I is greater than 20 concat " + i);
                 Console.WriteLine("I am the old way {0}", i);
 
             }
