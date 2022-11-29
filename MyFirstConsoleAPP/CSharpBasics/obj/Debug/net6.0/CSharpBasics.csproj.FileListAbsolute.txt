@@ -1,0 +1,15 @@
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\bin\Debug\net6.0\CSharpBasics.exe
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\bin\Debug\net6.0\CSharpBasics.deps.json
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\bin\Debug\net6.0\CSharpBasics.runtimeconfig.json
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\bin\Debug\net6.0\CSharpBasics.dll
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\bin\Debug\net6.0\CSharpBasics.pdb
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\obj\Debug\net6.0\CSharpBasics.csproj.AssemblyReference.cache
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\obj\Debug\net6.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\obj\Debug\net6.0\CSharpBasics.AssemblyInfoInputs.cache
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\obj\Debug\net6.0\CSharpBasics.AssemblyInfo.cs
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\obj\Debug\net6.0\CSharpBasics.csproj.CoreCompileInputs.cache
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\obj\Debug\net6.0\CSharpBasics.dll
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\obj\Debug\net6.0\refint\CSharpBasics.dll
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\obj\Debug\net6.0\CSharpBasics.pdb
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\obj\Debug\net6.0\CSharpBasics.genruntimeconfig.cache
+C:\dotnet\consoleapp\MyFirstConsoleAPP\CSharpBasics\obj\Debug\net6.0\ref\CSharpBasics.dll
