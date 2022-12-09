@@ -1,0 +1,6 @@
+C:\dotnet\consoleapp\ConsoleApp1\Calculations\bin\Debug\Calculations.dll
+C:\dotnet\consoleapp\ConsoleApp1\Calculations\bin\Debug\Calculations.pdb
+C:\dotnet\consoleapp\ConsoleApp1\Calculations\obj\Debug\Calculations.csproj.AssemblyReference.cache
+C:\dotnet\consoleapp\ConsoleApp1\Calculations\obj\Debug\Calculations.csproj.CoreCompileInputs.cache
+C:\dotnet\consoleapp\ConsoleApp1\Calculations\obj\Debug\Calculations.dll
+C:\dotnet\consoleapp\ConsoleApp1\Calculations\obj\Debug\Calculations.pdb

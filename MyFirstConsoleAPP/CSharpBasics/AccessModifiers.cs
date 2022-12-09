@@ -1,6 +1,6 @@
-﻿
+﻿using Calculations;
 
-namespace MyFirstConsoleAPP
+namespace CSharpBasics
 {
     class AccessModifiers
     {
@@ -69,4 +69,23 @@ namespace MyFirstConsoleAPP
         }
     }
 
+    class NewCalculator: Calculator
+    {
+        static void Main()
+        {
+          NewCalculator obj = new NewCalculator();
+            obj.Add(10, 20);
+            obj.Div(20, 10);
+            obj.Mul(10, 20);
+
+
+
+        }
+
+       
+    }
+
+    internal class Calculator
+    {
+    }
 }

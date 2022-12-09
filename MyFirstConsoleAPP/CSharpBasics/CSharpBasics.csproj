@@ -8,4 +8,10 @@
     <StartupObject>CSharpBasics.ClassesInCSharp</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Calculations">
+      <HintPath>..\..\Calculator\Calculations\bin\Debug\Calculations.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
