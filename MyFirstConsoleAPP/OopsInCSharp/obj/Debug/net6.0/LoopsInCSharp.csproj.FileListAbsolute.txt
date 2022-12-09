@@ -1,0 +1,15 @@
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\obj\Debug\net6.0\LoopsInCSharp.csproj.AssemblyReference.cache
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\obj\Debug\net6.0\LoopsInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\obj\Debug\net6.0\LoopsInCSharp.AssemblyInfoInputs.cache
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\obj\Debug\net6.0\LoopsInCSharp.AssemblyInfo.cs
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\obj\Debug\net6.0\LoopsInCSharp.csproj.CoreCompileInputs.cache
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\bin\Debug\net6.0\LoopsInCSharp.exe
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\bin\Debug\net6.0\LoopsInCSharp.deps.json
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\bin\Debug\net6.0\LoopsInCSharp.runtimeconfig.json
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\bin\Debug\net6.0\LoopsInCSharp.dll
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\bin\Debug\net6.0\LoopsInCSharp.pdb
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\obj\Debug\net6.0\LoopsInCSharp.dll
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\obj\Debug\net6.0\refint\LoopsInCSharp.dll
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\obj\Debug\net6.0\LoopsInCSharp.pdb
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\obj\Debug\net6.0\LoopsInCSharp.genruntimeconfig.cache
+C:\dotnet\consoleapp\MyFirstConsoleAPP\OopsInCSharp\obj\Debug\net6.0\ref\LoopsInCSharp.dll

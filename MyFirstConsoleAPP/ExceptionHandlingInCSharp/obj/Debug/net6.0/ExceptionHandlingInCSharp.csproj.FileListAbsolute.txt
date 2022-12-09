@@ -1,0 +1,15 @@
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\bin\Debug\net6.0\ExceptionHandlingInCSharp.exe
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\bin\Debug\net6.0\ExceptionHandlingInCSharp.deps.json
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\bin\Debug\net6.0\ExceptionHandlingInCSharp.runtimeconfig.json
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\bin\Debug\net6.0\ExceptionHandlingInCSharp.dll
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\bin\Debug\net6.0\ExceptionHandlingInCSharp.pdb
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\obj\Debug\net6.0\ExceptionHandlingInCSharp.csproj.AssemblyReference.cache
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\obj\Debug\net6.0\ExceptionHandlingInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\obj\Debug\net6.0\ExceptionHandlingInCSharp.AssemblyInfoInputs.cache
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\obj\Debug\net6.0\ExceptionHandlingInCSharp.AssemblyInfo.cs
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\obj\Debug\net6.0\ExceptionHandlingInCSharp.csproj.CoreCompileInputs.cache
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\obj\Debug\net6.0\ExceptionHandlingInCSharp.dll
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\obj\Debug\net6.0\refint\ExceptionHandlingInCSharp.dll
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\obj\Debug\net6.0\ExceptionHandlingInCSharp.pdb
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\obj\Debug\net6.0\ExceptionHandlingInCSharp.genruntimeconfig.cache
+C:\dotnet\consoleapp\MyFirstConsoleAPP\ExceptionHandlingInCSharp\obj\Debug\net6.0\ref\ExceptionHandlingInCSharp.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OopsInCSharp/1.0.0": {
+        "runtime": {
+          "OopsInCSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OopsInCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
